@@ -1,0 +1,192 @@
+:root{
+    transition: 1.5s!important;
+}
+.modal.modal_multi {
+	background: #fff;
+}
+.modal{
+    display: none;
+}
+.modal-content{
+    padding: 40px;
+    border: none;
+}
+.modal-content span {
+	text-align: left;
+	font-size: 27px;
+	font-weight: 600;
+    color: #cb0f0f;
+    margin-bottom: 10px;
+}
+.modal-content h3 {
+	text-align: left;
+	font-size: 60px;
+	font-weight: 700;
+    color: #cb0f0f;
+    margin-bottom: 100px;
+}
+.modal-content p {
+	font-size: 18px;
+	font-weight: 400;
+	color: #fff;
+	background: #cb0f0f;
+	padding: 50px 70px;
+	text-align: left;
+}
+/* 
+.modal-content {
+    background-color: #fefefe;
+    padding: 25px;
+    border: 1px solid #888;
+    width: 95%;
+    margin: auto;
+    height: 90vh;
+    position: absolute;
+    top: 2%;
+    left: 0;
+    right: 0;
+    transition: 1.5s!important;
+} */
+
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 1.5s!important;
+}
+/* ================================= */
+section.slider-main__wrap {
+    text-align: center;
+    background: #333;	
+}
+
+.slider-active:hover {
+    background: url("../img/01.jpg") no-repeat scroll center center / cover;
+}
+.content button:hover {
+	background: #cb0f0f;
+    opacity: 0.9;
+}
+
+.content button h3 {
+	color: #fff;
+	font-size: 30px;
+	opacity: 1;
+	cursor: url(../img/arrow-right-white.png) 36 36, auto;
+	padding: 50px 0px;
+	text-transform: capitalize;
+}
+section.slider-main__wrap {
+	text-align: center;
+}
+/* .slider-active{
+	cursor: url(../img/arrow-right-white.png) 36 36, auto;
+} */
+.close {
+	color: #333;
+	/* float: right; */
+	font-size: 51px;
+	font-weight: bold;
+	transition: 1.5s !important;
+	background: #fff;
+	/* padding: 7px; */
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	line-height: 37px;
+	opacity: 1;
+	margin-top: 36px;
+	text-align: center;
+}
+
+.left-wrapper {
+	background-image: linear-gradient(to top, red,orange,yellow,green,#676796,indigo,#e56ce5);
+}
+
+.myBtn_multi {
+    display: inline-block;
+    width: 100%;
+    border: none;
+    padding: 24px 0;
+    font-size: 24px;
+    font-weight: 700;
+}
+.content button {
+	background: #e4253a;
+}
+.content button:hover {
+	background: #e4253a;
+    opacity: 0.9;
+}
+.content-2 button {
+	background: #dea83c;
+}
+.content-2 button:hover {
+	background: #dea83c;
+    opacity: 0.9;
+}
+.content-3 button {
+	background: #4e9f38;
+}
+.content-3 button:hover {
+	background: #4e9f38;
+    opacity: 0.9;
+}
+.content-4 button {
+	background: #c51a2d;
+}
+.content-4 button:hover {
+	background: #c51a2d;
+    opacity: 0.9;
+}
+.content-5 button {
+	background: #ff3c23;
+}
+.content-5 button:hover {
+	background: #ff3c23;
+    opacity: 0.9;
+}
+.content-6 button {
+	background: #27bde3;
+}
+.content-6 button:hover {
+	background: #27bde3;
+    opacity: 0.9;
+}
+.content-7 button {
+	background: #fdc30a;
+}
+.content-7 button:hover {
+	background: #fdc30a;
+    opacity: 0.9;
+}
+.content-8 button {
+	background: #a21843;
+}
+.content-8 button:hover {
+	background: #a21843;
+    opacity: 0.9;
+}
+.content-9 button {
+	background: #fe6924;
+}
+.content-9 button:hover {
+	background: #fe6924;
+    opacity: 0.9;
+}
+.content-10 button {
+	background: #df1568;
+}
+.content-10 button:hover {
+	background: #df1568;
+    opacity: 0.9;
+}
+
+/* .myBtn_multi:nth-child(1) {
+    background-color: #cb0f0f;
+} */
+
+
+/* ================================= */
